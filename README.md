@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 ## Preview
 
-https://jumpshare.com/embed/a1IJaIKEJ9QSyZv8kmB4
+<a href="https://jmp.sh/s/a1IJaIKEJ9QSyZv8kmB4"><p style="margin-bottom: 0 !important;">2024-03-07 22-35-49 - Watch Video</p><img style="max-width:400px;" src=""></a>
 
 ## Usage
 
