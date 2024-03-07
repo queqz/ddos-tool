@@ -11,6 +11,10 @@ Open your cmd in the directory and then type:
 pip install -r requirements.txt
 ```
 
+## Preview
+
+https://jumpshare.com/embed/a1IJaIKEJ9QSyZv8kmB4
+
 ## Usage
 
 ```bash
